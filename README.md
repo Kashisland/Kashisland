@@ -37,6 +37,7 @@ Html과 JavaScript를 이용하여 FrontEnd 작업을 주로 하고 있으며 �
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/My SQL-2C2C32.svg?style=for-the-badge&logo=MySQL&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/RASA-2C2C32.svg?style=for-the-badge&logo=rasa&logoColor=6600FF" />&nbsp
 </div>
 <br>
 
